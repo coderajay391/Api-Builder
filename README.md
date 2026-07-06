@@ -8,7 +8,7 @@ A small utility project to help you design, test, and document APIs faster.
 
 ## Video Demo
 
-<video src="assets/api builder/api builder.mp4">Demo</video>
+<video src="assets/compressed_api-builder.mp4">Demo</video>
 
 ## Features
 
